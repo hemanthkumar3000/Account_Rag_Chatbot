@@ -122,3 +122,10 @@ project/
 - Swap in-memory vector store for a vector DB (Chroma / Qdrant / pgvector).
 - Add authentication and rate limiting.
 - Deploy backend + Ollama to a cloud VM and host frontend publicly.
+## Demo (inline video)
+
+<p align="center" width="100%">
+  <video src="(https://github.com/user-attachments/assets/22e07707-02b3-4d32-8bdf-8f8e54477738)" width="80%" controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
