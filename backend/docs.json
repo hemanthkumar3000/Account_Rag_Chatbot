@@ -1,10 +1,27 @@
 [
   {
     "title": "Reset Password",
+    "category": "Account",
     "content": "Users can reset their password from Settings > Security."
   },
   {
     "title": "Account Deletion",
+    "category": "Account",
     "content": "Users can delete their account from Account Settings."
+  },
+  {
+    "title": "Change Email Address",
+    "category": "Account",
+    "content": "Users can change their email address from Profile > Email under Account Settings."
+  },
+  {
+    "title": "Two-Factor Authentication",
+    "category": "Security",
+    "content": "Users can enable two-factor authentication from Settings > Security by linking an authenticator app or phone number."
+  },
+  {
+    "title": "Subscription Cancellation",
+    "category": "Billing",
+    "content": "Users can cancel their subscription anytime from Billing > Subscriptions and will retain access until the end of the billing period."
   }
 ]
